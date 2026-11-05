@@ -29,3 +29,13 @@ Abrir el cuaderno en Google Colab y usar *Entorno de ejecución > Reiniciar sesi
 
 ## Declaración de uso de IA
 Usé ChatGPT para organizar y redactar la propuesta.
+
+#Supuestos y limitaciones 
+
+Supuesto 1 es los clientes valoran un ambiente cómodo y tranquilo para conversar, estudiar o trabajar
+
+Supuesto dos es Publicar contenido atractivo en redes sociales puede aumentar las visitas a la cafetería
+
+Limitacion es La cafetería tiene un espacio pequeño y no puede atender a muchos clientes al mismo tiempo
+
+Por que importa para el decisor? Porque permite al dueño tomar decisiones sobre cómo organizar el espacio, mejorar la experiencia del cliente y utilizar las redes sociales para atraer más personas sin superar su capacidad de atención
